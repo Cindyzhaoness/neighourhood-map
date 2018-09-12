@@ -1,4 +1,6 @@
-# neighourhood-map
+# Neighbourhood Map
+
+This is project 8 and the final project in the Udacity Frontend Nanodegree.
 
 ## Getting Started
 
@@ -13,3 +15,5 @@
 This app was made with the Foursquare API and icons made by [Those Icons](www.flaticon.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+
